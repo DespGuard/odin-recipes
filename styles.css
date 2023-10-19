@@ -1,0 +1,41 @@
+* {
+    color:burlywood;
+    font-family: "Brush Script MT", cursive;
+}
+
+h3 {
+    font-weight: 900;
+    font-size: 36px;
+}
+
+h4 {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+h1 {
+    font-weight: 1000;
+    font-size: 50px;
+
+}
+
+li {
+    font-size: 25px;
+    color: bisque;
+}
+
+p {
+    font-size: 28px;
+    color: bisque;
+}
+
+.main {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+
+}
